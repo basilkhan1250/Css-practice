@@ -1,0 +1,61 @@
+h1{
+    background-color: rgb(208, 208, 208);
+    
+}
+p{
+    padding: 5px;
+    margin: 0px;
+}
+.fourteen{
+    background-color: rgb(3, 127, 250);
+    color: white;
+}
+.thirteen{
+    background-color: rgb(29, 141, 252);
+    color: white;
+}
+.twelve{
+    background-color: rgb(48, 151, 255);
+    color: white;
+}
+.eleven{
+    background-color: rgb(65, 160, 255);
+    color: white;
+}
+.ten{
+    background-color: rgb(89, 172, 255);
+    color: white;
+}
+.nine{
+    background-color: rgb(122, 186, 250);
+    color: white;
+}
+.eight{
+    background-color: rgb(147, 198, 249);
+    color: white;
+}
+.seven{
+    background-color: rgb(6, 215, 145);
+    color: white;
+}
+strong{
+    font-size: xx-large;
+}
+.six{
+    background-color: rgb(253, 163, 193);
+}
+.five{
+    background-color: rgb(255, 145, 182);
+}
+.four{
+    background-color: rgb(251, 126, 168);
+}
+.three{
+    background-color: rgb(255, 109, 158);
+}
+.two{
+    background-color: rgb(250, 92, 144);
+}
+.one{
+    background-color: rgb(250, 72, 131);
+}
