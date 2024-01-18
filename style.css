@@ -1,6 +1,5 @@
 h1{
     background-color: rgb(208, 208, 208);
-    
 }
 p{
     padding: 5px;
@@ -43,19 +42,25 @@ strong{
 }
 .six{
     background-color: rgb(253, 163, 193);
+    color: white;
 }
 .five{
     background-color: rgb(255, 145, 182);
+    color: white;
 }
 .four{
     background-color: rgb(251, 126, 168);
+    color: white;
 }
 .three{
     background-color: rgb(255, 109, 158);
+    color: white;
 }
 .two{
     background-color: rgb(250, 92, 144);
+    color: white;
 }
 .one{
     background-color: rgb(250, 72, 131);
+    color: white;
 }
